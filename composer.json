@@ -7,7 +7,7 @@
         {"name": "osforge", "email": "osforge@qq.com"}
     ],
     "require": {
-        "php": "^7.0.0"
+
     },
     "require-dev": {
 
