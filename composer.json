@@ -1,0 +1,18 @@
+{
+    "name": "osforge/base",
+    "description": "osforge base class",
+    "keywords": ["osforge", "base"],
+    "license": "MIT",
+    "authors": [
+        {"name": "osforge", "email": "osforge@qq.com"}
+    ],
+    "require": {
+        "php": "^7.0.0"
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+
+    }
+}
